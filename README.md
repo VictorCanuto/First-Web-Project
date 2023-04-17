@@ -1,6 +1,6 @@
-# ShoeBrand
+# TheFlash
 
-This is a model of a fictional shoe brand home page website
+## Landing page of a fictional shoe brand
 
 Made with HTML , CSS and SCSS.
 
